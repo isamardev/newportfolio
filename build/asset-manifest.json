@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/isamardev/newportfolio/static/css/main.61d24a6e.css",
+    "main.js": "/isamardev/newportfolio/static/js/main.68cd2852.js",
+    "static/js/787.ec704a7a.chunk.js": "/isamardev/newportfolio/static/js/787.ec704a7a.chunk.js",
+    "static/media/store3.png": "/isamardev/newportfolio/static/media/store3.e5c0fedb47898bd76737.png",
+    "static/media/computer.jpg": "/isamardev/newportfolio/static/media/computer.69a49088df386b3a3c24.jpg",
+    "static/media/Girl.webp": "/isamardev/newportfolio/static/media/Girl.71b1a59d7106b1458f26.webp",
+    "static/media/veges.webp": "/isamardev/newportfolio/static/media/veges.e73d81540aa6859690ab.webp",
+    "static/media/404.png": "/isamardev/newportfolio/static/media/404.8c6dcb85653e7088aa97.png",
+    "static/media/header.jpg": "/isamardev/newportfolio/static/media/header.fb72906348399a9271f9.jpg",
+    "static/media/uploadPhoto.png": "/isamardev/newportfolio/static/media/uploadPhoto.71c3bd7cdcb4a8684488.png",
+    "static/media/payment.png": "/isamardev/newportfolio/static/media/payment.53a5d7232f67f2e4d150.png",
+    "static/media/small strawbery.jpg": "/isamardev/newportfolio/static/media/small strawbery.b910520a54b0d089ce1b.jpg",
+    "static/media/shooe.jpg": "/isamardev/newportfolio/static/media/shooe.249209ded229589310f5.jpg",
+    "static/media/contact-us.webp": "/isamardev/newportfolio/static/media/contact-us.4d7439eeeed8e8aac92a.webp",
+    "static/media/store.webp": "/isamardev/newportfolio/static/media/store.7be3c04e91fd910336eb.webp",
+    "static/media/slide.webp": "/isamardev/newportfolio/static/media/slide.54761efb29ad0fa42d01.webp",
+    "static/media/slider-3.webp": "/isamardev/newportfolio/static/media/slider-3.b3a5112de5cfd83064de.webp",
+    "static/media/green.jpg": "/isamardev/newportfolio/static/media/green.9aa9a7d5e24e4e7f57de.jpg",
+    "static/media/slider2.webp": "/isamardev/newportfolio/static/media/slider2.5228ab8bdebc584990e7.webp",
+    "static/media/delivery-boy.webp": "/isamardev/newportfolio/static/media/delivery-boy.27213ed5b840b00390b8.webp",
+    "static/media/Strawbre.webp": "/isamardev/newportfolio/static/media/Strawbre.59cc747a3bac1bb42160.webp",
+    "static/media/beans.webp": "/isamardev/newportfolio/static/media/beans.303beaf9b57afcca5074.webp",
+    "static/media/baby.webp": "/isamardev/newportfolio/static/media/baby.1d5cbe8c8d6bdf8f25d4.webp",
+    "static/media/yahya.webp": "/isamardev/newportfolio/static/media/yahya.dd2a0bbec71b41f16cf6.webp",
+    "static/media/fish.webp": "/isamardev/newportfolio/static/media/fish.53b0062259079231926f.webp",
+    "static/media/fruits.webp": "/isamardev/newportfolio/static/media/fruits.430f7b7ccfdcff5cf0e4.webp",
+    "index.html": "/isamardev/newportfolio/index.html",
+    "main.61d24a6e.css.map": "/isamardev/newportfolio/static/css/main.61d24a6e.css.map",
+    "main.68cd2852.js.map": "/isamardev/newportfolio/static/js/main.68cd2852.js.map",
+    "787.ec704a7a.chunk.js.map": "/isamardev/newportfolio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d24a6e.css",
+    "static/js/main.68cd2852.js"
+  ]
+}
